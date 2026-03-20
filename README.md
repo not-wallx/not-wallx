@@ -9,13 +9,7 @@
 - 🔭 I’m currently working on expanding my programming skills, especially in **C++, C, and game development**.
 - 🌱 I’m continuously learning and improving my coding abilities.
 - 👯 I’m looking to collaborate on open-source projects and creative coding challenges.
-- 📫 How to reach me? [Email me](mailto:your-email@example.com)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🎓 My Certificates
-[![CS50 Certificate](https://img.shields.io/badge/CS50-Harvard-blue?logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/a50df31a-531d-42fb-b633-1774dd6469a1)
+- 📫 How to reach me? [Email me](mailto:diamondrwaial@gmail.com)
 
 ---
 
@@ -34,15 +28,14 @@
 
 ![godot](https://img.shields.io/badge/godot-black?style=flat-square&logo=godot-engine)
 ![opengl](https://img.shields.io/badge/opengl-black?style=flat-square&logo=opengl)
+![vulkan](https://img.shields.io/badge/vulkan-black?style=flat-square&logo=vulkan)
 ![sdl](https://img.shields.io/badge/sdl-black?style=flat-square&logo=sdl)
 ![qt](https://img.shields.io/badge/qt-black?style=flat-square&logo=qt)
 ![cmake](https://img.shields.io/badge/cmake-black?style=flat-square&logo=cmake)
 ![make](https://img.shields.io/badge/make-black?style=flat-square&logo=gnu-make)
-![llvm](https://img.shields.io/badge/llvm-black?style=flat-square&logo=llvm)
 ![gcc](https://img.shields.io/badge/gcc-black?style=flat-square&logo=gcc)
 ![gdb](https://img.shields.io/badge/gdb-black?style=flat-square&logo=gdb)
 ![valgrind](https://img.shields.io/badge/valgrind-black?style=flat-square&logo=valgrind)
-![vulkan](https://img.shields.io/badge/vulkan-black?style=flat-square&logo=vulkan)
 
 ### DevOps & Tools
 
@@ -56,4 +49,3 @@
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
 ![jenkins](https://img.shields.io/badge/jenkins-black?style=flat-square&logo=jenkins)
-
