@@ -4,7 +4,7 @@
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Wallx+🍉;I'm+a+Digital+Creator+&+Developer;Welcome+To+My+GitHub+Profile!+ツ)
 
-<img width="25%" align="right" alt="Anime GIF" src="https://trexiwalx.netlify.app" />
+<img width="25%" align="right" alt="Anime GIF" src="https://c.tenor.com/bwXII.gif" />
 
 - 🔭 I’m currently working on expanding my programming skills, especially in **C++, C, and game development**.
 - 🌱 I’m continuously learning and improving my coding abilities.
